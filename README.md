@@ -41,12 +41,9 @@ $ status
 ![3D contribution graph](https://raw.githubusercontent.com/saifsubhan30-bit/saifsubhan30-bit/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📊 Telemetry
-
 <p align="center">
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saifsubhan30-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saifsubhan30-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://streak-stats.demolab.com?user=saifsubhan30-bit&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifsubhan30-bit&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" />
 </p>
