@@ -40,7 +40,7 @@ $ status
 ## 📊 Telemetry
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=saifsubhan30-bit&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saifsubhan30-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saifsubhan30-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 </p>
 
